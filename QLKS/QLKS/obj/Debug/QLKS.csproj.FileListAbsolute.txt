@@ -1,0 +1,45 @@
+E:\C#\Quản lý khách sạn\QLKS\QLKS\bin\Debug\QLKS.exe.config
+E:\C#\Quản lý khách sạn\QLKS\QLKS\bin\Debug\QLKS.exe
+E:\C#\Quản lý khách sạn\QLKS\QLKS\bin\Debug\QLKS.pdb
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.csprojResolveAssemblyReference.cache
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.Cache
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.exe
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.pdb
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.frmmain.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.frmkhachhang.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.frmnhanvien.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.frmchange_pass.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.frmphong.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.frmdatphong.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.frmhoadon.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.frmlogin.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.frmvattu.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.frminfo.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.frmAccManager.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.frmService.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.Report.frmReport.resources
+E:\C#\Quản lý khách sạn\QLKS\QLKS\obj\Debug\QLKS.Presentation_Layer.frmAddService.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\bin\Debug\QLKS.exe.config
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\bin\Debug\QLKS.exe
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\bin\Debug\QLKS.pdb
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.frmAccManager.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.Presentation_Layer.frmAddService.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.frmchange_pass.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.frmdatphong.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.frmhoadon.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.frminfo.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.frmkhachhang.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.frmlogin.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.frmmain.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.frmnhanvien.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.frmphong.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.frmService.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.frmvattu.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.Report.frmReport.resources
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.exe
+E:\Dev\C#\Winform\Hotel_Manager_Winform C#\QLKS\QLKS\obj\Debug\QLKS.pdb
