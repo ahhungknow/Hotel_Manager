@@ -43,6 +43,10 @@ namespace QLKS.Data_Access_Object
         {
             return DataProvider.Instance.ExecuteQuery("get_all_info_ListRoom");
         }
+        public DataTable loadlisttyperoom()
+        {
+            return DataProvider.Instance.ExecuteQuery("select * from tblloaiphong");
+        }
         public DataTable getEmptyRoom()
         {
             return DataProvider.Instance.ExecuteQuery("getEmptyRoom");

@@ -21,8 +21,6 @@ namespace QLKS
         {
             InitializeComponent();
             flpRoom.AutoScroll = true;
-            loaddsp();
-            loadthongke();
         }
         #region properties
         frmAddService fadv = new frmAddService();
@@ -194,6 +192,13 @@ namespace QLKS
         private void lbldate_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void Frmmain_Activated(object sender, EventArgs e)
+        {
+            flpRoom.Controls.Clear();
+            loaddsp();
+            loadthongke();
         }
     }
 }

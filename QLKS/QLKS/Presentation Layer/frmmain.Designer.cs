@@ -472,6 +472,7 @@
             this.Name = "frmmain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Quản lý khách sạn v1.0";
+            this.Activated += new System.EventHandler(this.Frmmain_Activated);
             this.Load += new System.EventHandler(this.frmmain_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();

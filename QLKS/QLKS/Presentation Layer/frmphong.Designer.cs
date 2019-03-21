@@ -309,6 +309,7 @@
             this.Name = "frmphong";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Quản lý khách sạn v1.0";
+            this.Load += new System.EventHandler(this.Frmphong_Load);
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();

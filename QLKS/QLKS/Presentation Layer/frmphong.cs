@@ -71,8 +71,8 @@ namespace QLKS
         }
         void loadCombobox()
         {
-            cbLoaiPhong.DataSource = RoomDAO.Instance.loadlistroom();
-            cbLoaiPhong.DisplayMember = "Mã loại";
+            cbLoaiPhong.DataSource = RoomDAO.Instance.loadlisttyperoom();
+            cbLoaiPhong.DisplayMember = "maloai";
             cbLoaiPhong.DropDownStyle = ComboBoxStyle.DropDownList;
         }
         void loadListRoomType()
@@ -213,5 +213,10 @@ namespace QLKS
             }
         }
         #endregion
+
+        private void Frmphong_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
